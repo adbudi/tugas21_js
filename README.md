@@ -1,1 +1,3 @@
-# tugas21_js
+# Tugas Fungsi Replace
+ 
+![tugas 21](tgs.png)
